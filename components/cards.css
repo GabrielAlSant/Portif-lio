@@ -1,0 +1,26 @@
+.card{
+    background-color: black;
+    margin: auto;
+    margin-top: 800px;
+    width: 500px;
+    color: white;
+    border-radius: 50px;
+}
+
+.card .content{
+    padding: 30px;
+   
+}
+
+.card div{
+    padding: 10px;
+   
+}
+
+a{
+    color:white
+}
+
+.card .cardresume{
+    text-align: justify;
+}

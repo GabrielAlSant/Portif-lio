@@ -1,0 +1,86 @@
+.mainexp{
+    text-align: center;
+
+}
+
+.dp{
+    margin-top: 250px;
+}
+.mainexp .dp{
+    display: inline-block;
+}
+
+
+.mainexp .dp .study{
+    display: inline-block;
+}
+
+.mainexp .dp .exp{
+    display: inline-block;
+}
+
+.study{
+    margin-left: -50px;
+}
+
+.iconstudy {
+    float:left;
+    margin-left: 35px;
+}
+
+
+.study .local{
+    text-align: start;
+    margin-left: -37px;
+    display: inline-block;
+}
+
+.study .name{
+    margin-left: 70px;
+    text-align: start;
+    width: 200px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.study p{
+    color:gray;
+    margin-top: 0px;
+    margin-left: 70px;
+    text-align: start;
+    width: 200px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.exp{
+    float: right;   
+}
+
+.expitem{
+    width: 850px;
+    text-align: start;
+}
+
+.expitem li{
+    float: none;
+    padding-bottom:15px ;
+    text-align: start;
+    text-decoration: underline 2px solid;
+    text-underline-offset: 4px;
+}
+
+.expitem .name{
+   font-weight: bolder;
+}
+
+.expitem .date{
+    color: gray;
+}
+
+
+
+
+

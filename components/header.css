@@ -1,0 +1,27 @@
+header{
+    margin-top: -10px;
+    border-bottom: 2px solid black;
+    text-align: center;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+header h2{
+
+display: inline-block;
+
+}
+
+header ul{
+    margin-left: 250px;
+    display: inline-block;
+    
+    }
+
+li{
+    padding-left: 50px;
+    display: inline-block;
+    text-decoration:none;
+}
