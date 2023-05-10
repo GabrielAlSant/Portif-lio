@@ -23,13 +23,13 @@ export default function Exp(){
             <Image alt='' src={'/hat.png'} width={30} height={30} className='iconstudy'/>
             <div className='local' style={{marginLeft: -70 + 'px'}}>Ensino Superior</div>
             <div className='name'>Técnico em Análise e Desenvolvimento de Sistemas,  Instituto Federal do Mato Grosso do Sul</div>
-            <p>Concluído</p>  
+            <p>Março 2023 - em andamento</p>  
          </div>
          <div>
             <Image alt='' src={'/hat.png'} width={30} height={30} className='iconstudy'/>
             <div className='local' style={{marginLeft: -75 + 'px'}}>Curso de Inglês</div>
             <div className='name'>Wizard Nova Andradina</div>
-            <p>Concluído</p>  
+            <p>março 2019 - em andamento</p>  
          </div>
          <div>
             <Image alt='' src={'/hat.png'} width={30} height={30} className='iconstudy'/>
