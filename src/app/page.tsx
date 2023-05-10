@@ -5,6 +5,7 @@ import About from '../../components/about'
 import Exp from '../../components/exp'
 import Contact from '../../components/contato'
 import Cards from '../../components/projetos'
+import Footer from '../../components/footer'
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
     <Exp />
     <Contact />
     <Cards />
+    <Footer />
    </div>
   )
 }
