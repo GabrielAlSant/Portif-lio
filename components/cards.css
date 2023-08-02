@@ -24,3 +24,14 @@ a{
 .card .cardresume{
     text-align: justify;
 }
+
+@media (max-width:900px){
+    .card{
+        background-color: black;
+        margin: auto;
+        margin-top: 1600px;
+        width: 400px;
+        color: white;
+        border-radius: 50px;
+    }
+}

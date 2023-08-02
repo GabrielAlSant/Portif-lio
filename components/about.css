@@ -63,6 +63,62 @@
 
 
 
+   @media (max-width:900px){
+    
+    .about {
+        display: inline;
+        margin: auto;
+        text-align: center;
+        
+    }
 
+    .dp{
+     display: inline;
+     text-align: center;
+     margin: auto;
+    }
+
+    .about .resume{
+        margin-top: 50px;
+        font-size: 20px;
+        float: left;
+        width: 350px;
+        text-align: justify;
+    }
+    .about .dp img{
+       display: inline;
+       text-align: center;
+       margin-right:100px ;
+      float: none;
+      border-radius: 50%;
+       }
+
+       .about .dp button{
+        margin-top: 10px;
+        border-radius: 10px;
+        border: 1px solid white;
+        padding: 10px;
+        width: 300px;
+        font-weight: bolder;
+        font-size: 20px;
+    
+    
+       }
+       
+       .about .dp button:hover{
+        margin-top: 10px;
+        border-radius: 10px;
+        border: 1px solid black;
+        padding: 10px;
+        width: 300px;
+        color:white;
+        font-weight: bolder;
+        font-size: 20px;
+        background-color: black;
+        transition: 250ms;
+    
+       }
+    
+   }
 
    

@@ -55,7 +55,7 @@ export default function Exp(){
                
              <div className='expitem'>
               <div className='name'>Vendedor, Nova Mania Variedades (Meio Período),Avenida Brasil 2040, Bairro Centro Batayporã-MS</div>
-             <div className='date'>Novembro 2020 - Junho 2021,  outubro 2021 - janeiro 2022</div>
+             <div className='date'>Novembro 2020 - Junho 2021,  outubro 2021 - março 2022</div>
              <ul>
                <li>Responsável por repor produtos.</li>
                <li>Controle de vendas por dia.</li>

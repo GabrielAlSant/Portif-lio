@@ -81,6 +81,26 @@
 }
 
 
-
-
+@media (max-width:900px){
+    .dp{
+        margin-top: 250px;
+    }
+    .mainexp .dp{
+        display: inline;
+    }
+    
+    
+    .mainexp .dp .study{
+        display: inline;
+    }
+    
+    .mainexp .dp .exp{
+        display: inline;
+    }
+    
+    .expitem{
+        width: 400px;
+        text-align: start;
+    }
+}
 

@@ -9,7 +9,6 @@ header{
 }
 
 header h2{
-
 display: inline-block;
 
 }
@@ -17,11 +16,36 @@ display: inline-block;
 header ul{
     margin-left: 250px;
     display: inline-block;
-    
-    }
+     }
 
 li{
     padding-left: 50px;
     display: inline-block;
     text-decoration:none;
+}
+
+
+@media (max-width:900px){
+    header{
+        margin-top: -10px;
+        border-bottom: 2px solid black;
+        text-align: center;
+        z-index: 1;
+        position: fixed;
+        width: 100%;
+        background-color: white;
+        display: inline;
+    }
+    header ul{
+    margin-left: -25px;
+    display: flex;
+    justify-content: center;
+    }
+
+
+    li{
+        padding: 5px;
+        display: inline-block;
+        text-decoration:none;
+    }
 }
