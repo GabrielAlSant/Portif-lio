@@ -1,7 +1,12 @@
+.cards{
+    margin-top: 800px;
+    display: flex;
+    justify-content: center;
+}
+
 .card{
     background-color: black;
     margin: auto;
-    margin-top: 800px;
     width: 500px;
     color: white;
     border-radius: 50px;
@@ -26,12 +31,16 @@ a{
 }
 
 @media (max-width:900px){
+    .cards{
+        margin-top: 900px;
+        display: inline-block;
+    }
     .card{
         background-color: black;
-        margin: auto;
-        margin-top: 1600px;
+       
         width: 400px;
         color: white;
         border-radius: 50px;
+        margin-bottom: 50px;
     }
 }
